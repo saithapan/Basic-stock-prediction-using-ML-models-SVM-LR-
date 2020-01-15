@@ -1,0 +1,1 @@
+# Basic-stock-prediction-using-ML-models-SVM-LR-
